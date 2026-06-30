@@ -34,10 +34,5 @@ W wyniku zaawansowanej analizy nakładkowej (Overlay Analysis) wyznaczono spójn
 Lokalizacje uwzględniają realny kontekst przestrzenny miasta (m.in. strategiczne obszary w rejonie Lotniska Chopina oraz południowych dzielnic w sąsiedztwie Lasu Kabackiego), łącząc wysoki potok kierowców z całkowitym brakiem bliskiej konkurencji.
 
 ### 🗺️ Wizualizacja projektu
-*Tutaj wklej wygenerowany plik graficzny ze swoją mapą (np. mapa.png), przeciągając go bezpośrednio do edytora GitHub, aby wyświetlił się w tym miejscu!*
+<img width="3507" height="2480" alt="analiza_lokalizacyjna" src="https://github.com/user-attachments/assets/91d593d9-7e9f-478f-b5da-d6cfdbcf1fd1" />
 
----
-
-## 🚀 Jak uruchomić / odtworzyć projekt?
-1. Pobierz plik `analiza_lokalizacyjna.pdf`, aby zobaczyć finalną mapę w wysokiej rozdzielczości przygotowaną dla zarządu.
-2. *[Opcjonalnie]* Otwórz plik projektu `.qgz` / `.aprx` w dedykowanym oprogramowaniu GIS, aby prześledzić strukturę warstw.
